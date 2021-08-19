@@ -18,12 +18,15 @@
                 "btnFalse":"False",
                 "btnSet":"Set",
                 "btnActive":"Active",
+                "btnAttach":"Attach",
                 "btnLoad":"Load",
                 "btnSave":"Save",
                 "btnAdd":"Add",
                 "btnRemove":"Remove",
                 "btnCreate":"Create",
-                "btnDelete":"Delete"
+                "btnDelete":"Delete",
+                "btnLink":"Link",
+                "btnUnlink":"Unlink"
             },
             "Modules":{
                 "moduleProfiles":"Profiles",
@@ -42,12 +45,10 @@
                 "quickActions":"Quick Actions",
                 "btnOuterwear":"Outerwear",
                 "btnUnderwear":"Underwear",
-                "btnNude":"Nude",
-                "search":"Search..."
+                "btnNude":"Nude"
             },
             "AccessoriesList":{
-                "accessoryName":"Accessory to add...",
-                "btnAdd":"Add"
+                "accessoryName":"Accessory to add..."
             },
             "Allowlist":{
                 "allowUUID":"UUID to allow...",
@@ -63,9 +64,7 @@
                 "btnRem":"Block"
             },
             "Hair":{
-                "bald":"Bald",
-                "btnAttach":"Attach",
-                "btnActive":"Active"
+                "bald":"Bald"
             },
             "Hairlist":{
                 "hairName":"Hair to add..."
@@ -73,13 +72,10 @@
             "Interact":{
             },
             "Outfits":{
-                "btnWear":"Wear",
-                "btnActive":"Active"
+                "btnWear":"Wear"
             },
             "Outfitslist":{
                 "txtNewOutfit":"New outfit name...",
-                "btnLink":"Link",
-                "btnUnlink":"Unlink",
                 "txtDelete":"Are you sure you want to delete the outfit"
             },
             "Ownerlist":{
