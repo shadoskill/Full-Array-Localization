@@ -1,0 +1,109 @@
+{
+    "Hud":{
+        "Public":{
+            "LoginHud":{
+                "loginHeader":"Log In",
+                "userName":"UserName",
+                "password":"Password",
+                "btnLogin":"Login"
+            }
+        },
+        "User":{
+            "Misc":{
+                "txtSearch":"Search...",
+                "btnYes":"Yes",
+                "btnNo":"No",
+                "btnCancel":"Cancel",
+                "btnTrue":"True",
+                "btnFalse":"False",
+                "btnSet":"Set",
+                "btnActive":"Active",
+                "btnLoad":"Load",
+                "btnSave":"Save",
+                "btnAdd":"Add",
+                "btnRemove":"Remove",
+                "btnCreate":"Create",
+                "btnDelete":"Delete"
+            },
+            "Modules":{
+                "moduleProfiles":"Profiles",
+                "moduleOutfits":"Outfits",
+                "moduleAccessories":"Accessories",
+                "moduleHair":"Hair"
+            },
+            "Hud":{
+                "btnProfiles":"Profiles",
+                "btnOutfits":"Outfits",
+                "btnAccessories":"Accessories",
+                "btnHair":"Hair",
+                "btnInteract":"Interact",
+                "btnPermissions":"Permissions",
+                "btnSettings":"Settings",
+                "quickActions":"Quick Actions",
+                "btnOuterwear":"Outerwear",
+                "btnUnderwear":"Underwear",
+                "btnNude":"Nude",
+                "search":"Search..."
+            },
+            "AccessoriesList":{
+                "accessoryName":"Accessory to add...",
+                "btnAdd":"Add"
+            },
+            "Allowlist":{
+                "allowUUID":"UUID to allow...",
+                "btnAdd":"Allow",
+                "text0":"0: Below Public.",
+                "text1":"1: Public.",
+                "text2":"2-5: For general access.",
+                "btnCancel":"Cancel",
+                "btnRemove":"Remove"
+            },
+            "Blocklist":{
+                "blockUUID":"UUID to block...",
+                "btnRem":"Block"
+            },
+            "Hair":{
+                "bald":"Bald",
+                "btnAttach":"Attach",
+                "btnActive":"Active"
+            },
+            "Hairlist":{
+                "hairName":"Hair to add..."
+            },
+            "Interact":{
+            },
+            "Outfits":{
+                "btnWear":"Wear",
+                "btnActive":"Active"
+            },
+            "Outfitslist":{
+                "txtNewOutfit":"New outfit name...",
+                "btnLink":"Link",
+                "btnUnlink":"Unlink",
+                "txtDelete":"Are you sure you want to delete the outfit"
+            },
+            "Ownerlist":{
+                "txtAdd":"UUID to add..."
+            },
+            "Permissions":{
+                "btnAllowlist":"Allowlist",
+                "btnBlocklist":"Blocklist",
+                "btnOwnerlist":"Ownerlist",
+                "txtSelfOwner":"Self Owner",
+                "txtAllowPublic":"Allow Public"
+            },
+            "Profiles":{
+                "btnSetHuman":"Set Human",
+                "btnSetFurry":"Set Furry",
+                "btnSetNeko":"Set Neko",
+                "txtNewProfile":"New profile name...",
+                "txtDeleteProfile":"Are you sure you want to delete the profile"
+            },
+            "Settings":{
+                "txtAutoWearOutfit":"Auto wear outfit?",
+                "txtAutoWearHair":"Auto wear hair?",
+                "txtHudLeftSide":"Hud on left side?"
+            }
+        }
+    } 
+}
