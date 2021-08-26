@@ -47,16 +47,12 @@
                 "quickOutfits":"Outfit Actions",
                 "btnOuterwear":"Outerwear",
                 "btnUnderwear":"Underwear",
-<<<<<<< HEAD
                 "btnNude":"Nude",
                 "quickAccessories":"Accessory Actions",
                 "btnDetachAllAccessories":"Detach All",
                 "quickShoe":"Shoe Actions",
                 "btnDetachShoe":"Detach",
                 "btnWearShoe":"Wear"
-=======
-                "btnNude":"Nude"
->>>>>>> c687e139836661de99909262623f3e5687f83e36
             },
             "AccessoriesList":{
                 "accessoryName":"Accessory to add..."
@@ -76,12 +72,9 @@
             },
             "Hair":{
                 "bald":"Bald"
-<<<<<<< HEAD
             },
             "Shoe":{
                 "bare":"Bare"
-=======
->>>>>>> c687e139836661de99909262623f3e5687f83e36
             },
             "Hairlist":{
                 "hairName":"Hair to add..."
