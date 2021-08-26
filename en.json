@@ -32,20 +32,31 @@
                 "moduleProfiles":"Profiles",
                 "moduleOutfits":"Outfits",
                 "moduleAccessories":"Accessories",
-                "moduleHair":"Hair"
+                "moduleHair":"Hair",
+                "moduleShoe":"Shoe"
             },
             "Hud":{
                 "btnProfiles":"Profiles",
                 "btnOutfits":"Outfits",
                 "btnAccessories":"Accessories",
                 "btnHair":"Hair",
+                "btnShoe":"Shoe",
                 "btnInteract":"Interact",
                 "btnPermissions":"Permissions",
                 "btnSettings":"Settings",
-                "quickActions":"Quick Actions",
+                "quickOutfits":"Outfit Actions",
                 "btnOuterwear":"Outerwear",
                 "btnUnderwear":"Underwear",
+<<<<<<< HEAD
+                "btnNude":"Nude",
+                "quickAccessories":"Accessory Actions",
+                "btnDetachAllAccessories":"Detach All",
+                "quickShoe":"Shoe Actions",
+                "btnDetachShoe":"Detach",
+                "btnWearShoe":"Wear"
+=======
                 "btnNude":"Nude"
+>>>>>>> c687e139836661de99909262623f3e5687f83e36
             },
             "AccessoriesList":{
                 "accessoryName":"Accessory to add..."
@@ -65,9 +76,18 @@
             },
             "Hair":{
                 "bald":"Bald"
+<<<<<<< HEAD
+            },
+            "Shoe":{
+                "bare":"Bare"
+=======
+>>>>>>> c687e139836661de99909262623f3e5687f83e36
             },
             "Hairlist":{
                 "hairName":"Hair to add..."
+            },
+            "Shoelist":{
+                "shoeName":"Shoe to add..."
             },
             "Interact":{
             },
@@ -98,8 +118,14 @@
             "Settings":{
                 "txtAutoWearOutfit":"Auto wear outfit?",
                 "txtAutoWearHair":"Auto wear hair?",
-                "txtHudLeftSide":"Hud on left side?"
+                "txtHudLeftSide":"Hud on left side?",
+                "txtHudIcons":"Show button icons?",
+                "txtAutoWearShoe":"Auto wear shoes?"
             }
         }
-    } 
+    },
+    "Control":{
+    },
+    "LsL":{
+    }
 }
