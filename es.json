@@ -1,0 +1,124 @@
+{
+    "Hud":{
+        "Public":{
+            "LoginHud":{
+                "loginHeader":"Registrarse",
+                "userName":"Nombre de usuario",
+                "password":"Contraseña",
+                "btnLogin":"iniciar sesión"
+            }
+        },
+        "User":{
+            "Misc":{
+                "txtSearch":"Buscar...",
+                "btnYes":"Sí",
+                "btnNo":"No",
+                "btnCancel":"Cancelar",
+                "btnTrue":"Cierto",
+                "btnFalse":"Falso",
+                "btnSet":"Fijar",
+                "btnActive":"Activo",
+                "btnAttach":"Unir",
+                "btnLoad":"Cargar",
+                "btnSave":"Guardar",
+                "btnAdd":"Agregar",
+                "btnRemove":"Quitar",
+                "btnCreate":"Crear",
+                "btnDelete":"Eliminar",
+                "btnLink":"Vincular",
+                "btnUnlink":"Desvincular"
+            },
+            "Modules":{
+                "moduleProfiles":"Perfiles",
+                "moduleOutfits":"Trajes",
+                "moduleAccessories":"Accesorios",
+                "moduleHair":"Cabello",
+                "moduleShoe":"Zapatos"
+            },
+            "Hud":{
+                "btnProfiles":"Perfiles",
+                "btnOutfits":"Trajes",
+                "btnAccessories":"Accessorios",
+                "btnHair":"Cabello",
+                "btnShoe":"Zapatos",
+                "btnInteract":"Interactuar",
+                "btnPermissions":"Permisos",
+                "btnSettings":"Configuración",
+                "quickOutfits":"Acciones de vestimenta",
+                "btnOuterwear":"Ropa exterior",
+                "btnUnderwear":"Ropa interior",
+                "btnNude":"Desnudo",
+                "quickAccessories":"Acciónes de Accessorios",
+                "btnDetachAllAccessories":"Quitar Todos",
+                "quickShoe":"Acciónes de Zapatos",
+                "btnDetachShoe":"Quitar",
+                "btnWearShoe":"Poner"
+            },
+            "AccessoriesList":{
+                "accessoryName":"Accesorio para añadir..."
+            },
+            "Allowlist":{
+                "allowUUID":"UUID para permitir...",
+                "btnAdd":"Permitir",
+                "text0":"0: Debajo del público.",
+                "text1":"1: Publico.",
+                "text2":"2-5: Para el acceso general.",
+                "btnCancel":"Cancelar",
+                "btnRemove":"Quitar"
+            },
+            "Blocklist":{
+                "blockUUID":"UUID Para Bloquear...",
+                "btnRem":"Bloquear"
+            },
+            "Hair":{
+                "bald":"Calvo"
+            },
+            "Shoe":{
+                "bare":"Descalzo"
+            },
+            "Hairlist":{
+                "hairName":"Cabello para agregar..."
+            },
+            "Shoelist":{
+                "shoeName":"Zapatos para agregar..."
+            },
+            "Interact":{
+            },
+            "Outfits":{
+                "btnWear":"Vestir"
+            },
+            "Outfitslist":{
+                "txtNewOutfit":"Nombre del atuendo nuevo...",
+                "txtDelete":"¿Estás seguro de que quieres eliminar tu atuendo?"
+            },
+            "Ownerlist":{
+                "txtAdd":"UUID to agregar..."
+            },
+            "Permissions":{
+                "btnAllowlist":"Lista para Permitir",
+                "btnBlocklist":"Lista para Bloquear",
+                "btnOwnerlist":"Lista de dueños",
+                "txtSelfOwner":"Dueño de ti mismo",
+                "txtAllowPublic":"Permiso público"
+            },
+            "Profiles":{
+                "btnSetHuman":"Establecer Humano",
+                "btnSetFurry":"Establecer Furry",
+                "btnSetNeko":"Establecer Neko",
+                "txtNewProfile":"Nombre de perfil Nuevo...",
+                "txtDeleteProfile":"¿Estás seguro de que quieres eliminar tu perfil?"
+            },
+            "Settings":{
+                "txtAutoWearOutfit":"¿Poner el atuendo automáticamente?",
+                "txtAutoWearHair":"¿Poner el Cabello automáticamente?",
+                "txtHudLeftSide":"¿Pantalla en el lado izquierdo?",
+                "txtHudIcons":"¿Mostrar iconos de botones?",
+                "txtAutoWearShoe":"¿Poner los zapatos automáticamente?"
+            }
+        }
+    },
+    "Control":{
+    },
+    "LsL":{
+    }
+}
